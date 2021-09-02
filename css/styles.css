@@ -1,0 +1,14 @@
+.timer {
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  margin-right: -20px;
+  height: 100px;
+  background-color: beige;
+  width: auto;
+}
+.field {
+  margin-right: 20px;
+}
